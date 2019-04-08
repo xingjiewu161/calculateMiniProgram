@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/Cals",
+    "pages/history/history"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "red",
+    "navigationBarTitleText": "calculate",
+    "navigationBarTextStyle":"black",
+    "height": "100%"
+  }
+}
